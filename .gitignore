@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+status.json
+error.log
+config-error.txt
+Restart.vbs
+Stop.vbs
+*.lnk
